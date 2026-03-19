@@ -1,158 +1,126 @@
 <div align="center">
 
-```
-███╗   ██╗██╗████████╗██╗  ██╗██╗███╗   ██╗    ██╗  ██╗    ███████╗
-████╗  ██║██║╚══██╔══╝██║  ██║██║████╗  ██║    ██║ ██╔╝    ██╔════╝
-██╔██╗ ██║██║   ██║   ███████║██║██╔██╗ ██║    █████╔╝     ███████╗
-██║╚██╗██║██║   ██║   ██╔══██║██║██║╚██╗██║    ██╔═██╗     ╚════██║
-██║ ╚████║██║   ██║   ██║  ██║██║██║ ╚████║    ██║  ██╗    ███████║
-╚═╝  ╚═══╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝    ╚═╝  ╚═╝    ╚══════╝
-```
+# Hi, I'm Nithin K S 👋
 
-**`/home/nithin $`** &nbsp; `whoami`
+### Aspiring Software Engineer | CSE Student | Builder
 
-> *Computer Science Engineer · Full-Stack Developer · Problem Solver*
-
-<br/>
-
-![](https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=3670A0)
-![](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=springboot&logoColor=6DB33F)
-![](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django&logoColor=092E20)
-![](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&logoColor=4ea94b)
-![](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=4479A1)
-![](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=F05033)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/──%20LinkedIn%20──-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithin-ks2005/)
-[![Gmail](https://img.shields.io/badge/──%20Email%20──-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bharadwajnithin666@gmail.com)
-[![GitHub](https://img.shields.io/badge/──%20GitHub%20──-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bharadwajnithin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithin-ks2005/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bharadwajnithin666@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bharadwajnithin)
 
 </div>
 
 ---
 
-```bash
-$ cat about.txt
-```
+## 👨‍💻 About Me
 
-```
-Name     :  Nithin K S
-Location :  Mysore, Karnataka 570018
-Role     :  CSE Student @ ATME College of Engineering, Mysore
-Stack    :  Java · Spring Boot · Python · Django · React · JavaScript · HTML/CSS
-Databases:  MongoDB · MySQL
-Tools    :  Git · GitHub · Linux · Apache POI · iText · OpenCV · Tesseract-OCR
-Status   :  Open to internships & collaborations 🟢
-```
+- 🎓 B.E. in Computer Science @ **ATME College of Engineering, Mysore** *(Expected June 2026)*
+- 💼 Skilled in **Java, Python, JavaScript** and full-stack web development
+- 🛠️ Built projects using **Spring Boot, Django, React, MongoDB, MySQL**
+- 🌱 Currently learning **REST APIs, System Design & DSA**
+- 📍 Based in **Mysore, Karnataka**
+- 🟢 **Open to internships and entry-level roles**
 
 ---
 
-```bash
-$ ls -la projects/
-```
+## 🛠️ Tech Stack
 
-### `📂 expense-tracker/`
+**Languages**
 
-> *Full-stack finance app with analytics, reports & multi-currency support*
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-| Layer | Technology |
-|-------|-----------|
-| Frontend | React.js · Chart.js · Axios |
-| Backend | Spring Boot · REST APIs |
-| Database | MongoDB |
-| Features | CRUD · Category Filter · Weekly/Monthly/Yearly Charts · Excel (Apache POI) & PDF (iText) Export |
+**Frameworks & Libraries**
 
----
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-### `📂 image-to-text-converter/`
+**Databases**
 
-> *OCR-powered web app that extracts, enhances and exports text from images*
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-| Layer | Technology |
-|-------|-----------|
-| Frontend | HTML · CSS · JavaScript |
-| Backend | Python · Django |
-| Database | MySQL |
-| Features | Tesseract-OCR · OpenCV Preprocessing · Noise Reduction · Thresholding · PDF Export (FPDF) |
+**Tools & OS**
 
----
-
-### `📂 geo-attendance-system/`
-
-> *GPS + Face Recognition = attendance that can't be faked*
-
-| Layer | Technology |
-|-------|-----------|
-| Frontend | HTML · CSS · JavaScript |
-| Backend | Python · Django |
-| Database | MongoDB (via Djongo) |
-| Features | Google Maps Geo-fencing · OpenCV Face Recognition · Role-based Access (Admin / Staff / Student) |
+![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
-```bash
-$ cat skills.json
-```
+## 🚀 Projects
 
-```json
-{
-  "languages"  : [ "Java", "Python", "JavaScript", "HTML", "CSS", "SQL"],
-  "frameworks" : ["Spring Boot", "Django", "React.js", "Bootstrap"],
-  "databases"  : ["MongoDB", "MySQL"],
-  "tools"      : ["Git", "GitHub", "Linux", "OpenCV", "Tesseract-OCR", "Apache POI", "iText", "FPDF"],
-  "concepts"   : ["OOP", "DSA", "DBMS", "Operating Systems", "REST APIs"]
-}
-```
+### 💸 Expense Tracker
+> Java · Spring Boot · React.js · MongoDB · Chart.js
+
+A full-stack web app to track and manage daily expenses.
+- Add, edit, delete expenses with category and currency support
+- Interactive dashboard with weekly, monthly & yearly charts
+- Export reports as **Excel** (Apache POI) and **PDF** (iText)
 
 ---
 
+### 🖼️ Image-to-Text Converter
+> Python · Django · OpenCV · Tesseract-OCR · MySQL
 
-```diff
-+ Learning   : REST APIs · System Design · DSA
-+ Building   : Expanding project portfolio
-+ Open to    : Internships · Entry-level roles · Collaborations
-! Fun fact   : print() is a perfectly valid debugging strategy
-```
+A web app that extracts text from uploaded images using OCR.
+- Image preprocessing with noise reduction & thresholding via OpenCV
+- Tesseract-OCR integration for accurate text extraction
+- Download extracted text as a **PDF** (FPDF)
 
 ---
+
+### 📍 Geo-Attendance System
+> Python · Django · OpenCV · Google Maps API · MongoDB
+
+A smart attendance system combining GPS and face recognition.
+- Geo-fencing via Google Maps API — attendance only within authorized zones
+- Face recognition using OpenCV for identity verification
+- Role-based access for **Admin**, **Staff**, and **Students**
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-```bash
-$ git log --oneline --graph --all
-```
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bharadwajnithin&theme=tokyonight&hide_border=true&show_icons=true)
 
-<img src="https://github-readme-stats.vercel.app/api?username=bharadwajnithin&theme=dark&hide_border=true&include_all_commits=true&show_icons=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="160"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharadwajnithin&theme=dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="160"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bharadwajnithin&theme=tokyonight&hide_border=true&layout=compact)
 
-<br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=bharadwajnithin&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bharadwajnithin&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b" width="95%"/>
+![Streak](https://nirzak-streak-stats.vercel.app/?user=bharadwajnithin&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
+## 🎓 Education
+
+| Degree | Institution | Score |
+|--------|-------------|-------|
+| B.E. Computer Science & Engineering | ATME College of Engineering, Mysore | CGPA 6.7 *(Pursuing)* |
+| Diploma in Computer Science | JSS Polytechnic, Mysore | CGPA 7.4 |
+| Grade 10 | Mari Mallappa's High School, Mysore | 60% |
+
+---
+
+## 📜 Certifications
+
+- ✅ Git and GitHub Basics
+- ✅ Python Programming
+- ✅ Linux Fundamentals
+
+---
+
 <div align="center">
 
-```
-╔══════════════════════════════════════════╗
-║   Thanks for visiting — let's build     ║
-║   something great together.             ║
-╚══════════════════════════════════════════╝
-```
+*Thanks for visiting! Feel free to connect or reach out.* 😊
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithin-ks2005/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Send%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bharadwajnithin666@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=bharadwajnithin&label=Profile+Views&color=58a6ff&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=bharadwajnithin&label=Profile+Views&color=0e75b6&style=flat)
 
 </div>
