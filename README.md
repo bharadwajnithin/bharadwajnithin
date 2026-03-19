@@ -108,41 +108,6 @@ $ cat skills.json
 
 ---
 
-```bash
-$ cat education.log
-```
-
-```yaml
-[2022 – 2026]  B.E. Computer Science & Engineering
-               ATME College of Engineering, Mysore
-               CGPA: 6.7 (Pursuing) | Expected: June 2026
-
-[Completed]    Diploma in Computer Science & Engineering
-               JSS Polytechnic, Mysore
-               CGPA: 7.4 / 10
-
-[Completed]    Secondary School (Grade 10)
-               Mari Mallappa's High School, Mysore
-               Percentage: 60%
-```
-
----
-
-```bash
-$ cat certifications.txt
-```
-
-```diff
-+ Git and GitHub Basics        — Self Learning / Online Course
-+ Python Programming           — Self Learning
-+ Linux Fundamentals           — Self Learning / Online Course
-```
-
----
-
-```bash
-$ cat status.log
-```
 
 ```diff
 + Learning   : REST APIs · System Design · DSA
