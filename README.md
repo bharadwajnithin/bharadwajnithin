@@ -98,7 +98,7 @@ $ cat skills.json
 
 ```json
 {
-  "languages"  : ["C", "Java", "Python", "JavaScript", "HTML", "CSS", "SQL"],
+  "languages"  : [ "Java", "Python", "JavaScript", "HTML", "CSS", "SQL"],
   "frameworks" : ["Spring Boot", "Django", "React.js", "Bootstrap"],
   "databases"  : ["MongoDB", "MySQL"],
   "tools"      : ["Git", "GitHub", "Linux", "OpenCV", "Tesseract-OCR", "Apache POI", "iText", "FPDF"],
