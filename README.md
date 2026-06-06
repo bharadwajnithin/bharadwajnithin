@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **B.E. Computer Science & Engineering** — ATME College of Engineering, Mysore *(Expected June 2026)*
+- 🎓 B.E. Computer Science & Engineering Graduate — ATME College of Engineering, Mysore
 - 💡 Passionate about building **practical, user-focused software** from frontend to backend
 - 🛠️ Experienced with **Java, Python, JavaScript** and modern web frameworks
 - 🌱 Currently leveling up in **REST APIs, System Design & DSA**
