@@ -21,7 +21,7 @@
 
 - 🎓 B.E. Computer Science & Engineering Graduate — ATME College of Engineering, Mysore
 - 💡 Passionate about building **practical, user-focused software** from frontend to backend
-- 🛠️ Experienced with **Java, Python, JavaScript** and modern web frameworks
+- 🛠️ Experienced with **Java, Python, ** and modern web frameworks
 - 🌱 Currently leveling up in **REST APIs, System Design & DSA**
 - 📍 Based in **Mysore, Karnataka**
 - 🟢 **Open to internships & entry-level roles**
