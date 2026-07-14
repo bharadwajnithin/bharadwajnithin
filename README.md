@@ -1,19 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nithin%20K%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Java%20Backend%20Developer&descAlignY=60&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:3B82F6,100:06B6D4&text=Nithin%20K%20S&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20|%20Java%20Backend%20Developer&descAlignY=58&descSize=18"/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Nithin+K+S;Software+Engineer;Java+Backend+Developer;Spring+Boot+%7C+REST+API+Developer;Full+Stack+Web+Developer;Always+Learning+New+Technologies+🚀" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Nithin+K+S;Software+Engineer;Java+Backend+Developer;Spring+Boot+Developer;REST+API+Developer;Full+Stack+Developer;Always+Learning+New+Technologies+🚀"/>
+
+<br>
+
+<a href="https://www.linkedin.com/in/nithin-ks2005/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<br><br>
+<a href="mailto:bharadwajnithin666@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithin-ks2005/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bharadwajnithin666@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bharadwajnithin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK)
+<a href="https://github.com/bharadwajnithin">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-![](https://komarev.com/ghpvc/?username=bharadwajnithin&label=Profile%20Views&color=58A6FF&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=bharadwajnithin&style=for-the-badge&color=3B82F6"/>
 
 </div>
 
@@ -21,88 +26,145 @@
 
 # 👨‍💻 About Me
 
-🎓 Computer Science & Engineering Graduate from Mysore, Karnataka, India.
+```yaml
+Name: Nithin K S
 
-I'm a passionate **Software Engineer** with a strong interest in building scalable backend systems and modern web applications.
+Role: Software Engineer
 
-My primary expertise is in **Java**, **Spring Boot**, and **REST API Development**, with experience working across the full stack using **React**, **MySQL**, and **MongoDB**.
+Education: B.E Computer Science & Engineering
 
-I enjoy solving challenging problems, learning new technologies, and building projects that improve real-world user experiences.
+Location: Mysore, Karnataka, India
 
-### 🚀 Currently
+Primary Skills:
+  - Java
+  - Spring Boot
+  - REST APIs
+  - React
+  - MySQL
+  - MongoDB
 
-- 💼 Looking for Software Engineer & Backend Developer opportunities
-- 🌱 Learning System Design, Microservices & Cloud Technologies
-- 💻 Solving Data Structures & Algorithms problems
-- 🤝 Open to collaboration on Java & Full Stack projects
+Looking For:
+  - Software Engineer
+  - Java Backend Developer
+```
 
----
+I enjoy building scalable backend systems, solving challenging engineering problems, and developing full-stack web applications.
 
-# 🛠 Tech Stack
+My primary interests include:
 
-## 💻 Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-## ⚙ Frameworks
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+- Backend Development
+- Distributed Systems
+- Cloud Computing
+- Software Engineering
+- Artificial Intelligence
 
 ---
 
-## 🗄 Databases
+# 🚀 Current Focus
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-## ☁ Tools
-
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+- 🔭 Building AI-powered Web Applications
+- 🌱 Learning System Design & Microservices
+- 💻 Solving Data Structures & Algorithms
+- 🚀 Preparing for Software Engineer Interviews
 
 ---
 
-# 📌 Core Skills
+# ⚡ Tech Stack
 
-- Java Backend Development
-- Spring Boot
-- REST APIs
-- JWT Authentication
-- Database Design
-- Object-Oriented Programming
-- Data Structures & Algorithms
-- Full Stack Development
-- Git & GitHub
+## ☕ Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
+
+![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity)
 
 ---
 
-# 🎯 Career Objective
+## 🎨 Frontend
 
-Seeking an entry-level **Software Engineer** or **Backend Developer** role where I can contribute to building scalable software solutions, enhance my technical expertise, and grow as an engineering professional.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+
+---
+
+## 🗄 Database
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+
+---
+
+## 🛠 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+
+---
+
+# ⭐ Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🤖 Review Sentinel AI | AI-powered review analysis platform using Spring Boot, React & Gemini AI |
+| 📋 TaskFlow AI | AI task management platform with Spring Boot & MongoDB |
+| 🛠 ServiceMate | Local service booking application with JWT Authentication |
+| 📍 Geo Attendance | Face Recognition Attendance using Geofencing |
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bharadwajnithin&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharadwajnithin&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=bharadwajnithin&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Become a Software Engineer
+- ✅ Master Spring Boot
+- ✅ Learn Microservices
+- ✅ Learn AWS
+- ✅ Master System Design
+- ✅ Contribute to Open Source
+
+---
+
+# 📫 Connect With Me
+
+- 💼 LinkedIn → https://linkedin.com/in/nithin-ks2005
+- 📧 Email → bharadwajnithin666@gmail.com
+- 💻 GitHub → github.com/bharadwajnithin
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+## ⭐ Thanks for visiting!
 
-### ⭐ Thanks for visiting my profile!
+### *Code • Learn • Build • Repeat* 🚀
 
-*"Code • Learn • Build • Repeat"* 🚀
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:4F46E5,50:3B82F6,100:06B6D4"/>
 
 </div>
