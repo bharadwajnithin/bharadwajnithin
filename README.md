@@ -19,12 +19,16 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.E. Computer Science & Engineering Graduate — ATME College of Engineering, Mysore
-- 💡 Passionate about building **practical, user-focused software** from frontend to backend
-- 🛠️ Experienced with **Java, Python, ** and modern web frameworks
-- 🌱 Currently leveling up in **REST APIs, System Design & DSA**
-- 📍 Based in **Mysore, Karnataka**
-- 🟢 **Open to internships & entry-level roles**
+Java Backend Developer | Software Engineering Enthusiast Computer Science & Engineering Graduate
+Mysore, Karnataka, India
+
+About Me
+
+I am a Computer Science and Engineering graduate passionate about building reliable and scalable software solutions. My interests include Backend Development, Full Stack Web Development, Cloud Computing, and Software Engineering.
+
+I specialize in Java and Spring Boot for backend development and have experience developing web applications, REST APIs, and database-driven systems. I continuously improve my problem-solving skills through Data Structures & Algorithms and enjoy learning modern technologies and best practices used in the software industry.
+
+Currently, I am seeking entry-level opportunities as a Software Engineer or Backend Developer to apply my technical skills, contribute to meaningful projects, and grow in a collaborative engineering environment.
 
 ---
 
