@@ -2,7 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:3B82F6,100:06B6D4&text=Nithin%20K%20S&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20|%20Java%20Backend%20Developer&descAlignY=58&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Nithin+K+S;Software+Engineer;Java+Backend+Developer;Spring+Boot+Developer;REST+API+Developer;Full+Stack+Developer;Always+Learning+New+Technologies+🚀"/>
 
 <br>
 
