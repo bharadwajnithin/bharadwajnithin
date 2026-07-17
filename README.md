@@ -20,7 +20,7 @@
 <img src="https://komarev.com/ghpvc/?username=bharadwajnithin&style=for-the-badge&color=3B82F6"/>
 
 </div>
-
+  
 ---
 
 # 👨‍💻 About Me
