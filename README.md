@@ -46,7 +46,7 @@ public class NithinKS implements SoftwareEngineer {
         while (alive) {
             learn(newTech);
             build(cleanCode);
-            solve(hardProblems);
+            solve(dProblems);
         }
     }
 
@@ -103,3 +103,51 @@ My primary interests include:
 | 📋 TaskFlow AI | AI task management platform with Spring Boot & MongoDB |
 | 🛠 ServiceMate | Local service booking application with JWT Authentication |
 | 📍 Geo Attendance | Face Recognition Attendance using Geofencing |
+
+
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bharadwajnithin&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharadwajnithin&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=bharadwajnithin&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Become a Software Engineer
+- ✅ Master Spring Boot
+- ✅ Learn Microservices
+- ✅ Learn AWS / AZURE
+- ✅ Master System Design
+- ✅ Contribute to Open Source
+
+---
+
+# 📫 Connect With Me
+
+- 💼 LinkedIn → https://linkedin.com/in/nithin-ks2005
+- 📧 Email → bharadwajnithin666@gmail.com
+- 💻 GitHub → github.com/bharadwajnithin
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting!
+
+### *Code • Learn • Build • Repeat* 🚀
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:4F46E5,50:3B82F6,100:06B6D4"/>
+
+</div>
+
