@@ -25,26 +25,35 @@
 
 # 👨‍💻 About Me
 
-```yaml
-Name: Nithin K S
+```java
+public class NithinKS implements SoftwareEngineer {
 
-Role: Software Engineer
+    private String name       = "Nithin K S";
+    private String role       = "Software Engineer";
+    private String education  = "B.E Computer Science & Engineering";
+    private String location   = "Mysore, Karnataka, India";
 
-Education: B.E Computer Science & Engineering
+    private String[] primarySkills = {
+        "Java", "Spring Boot", "REST APIs", "React", "MySQL", "MongoDB"
+    };
 
-Location: Mysore, Karnataka, India
+    private String[] lookingFor = {
+        "Software Engineer", "Java Backend Developer"
+    };
 
-Primary Skills:
-  - Java
-  - Spring Boot
-  - REST APIs
-  - React
-  - MySQL
-  - MongoDB
+    @Override
+    public void codeLearnBuildRepeat() {
+        while (alive) {
+            learn(newTech);
+            build(cleanCode);
+            solve(hardProblems);
+        }
+    }
 
-Looking For:
-  - Software Engineer
-  - Java Backend Developer
+    public static void main(String[] args) {
+        new NithinKS().codeLearnBuildRepeat();
+    }
+}
 ```
 
 I enjoy building scalable backend systems, solving challenging engineering problems, and developing full-stack web applications.
@@ -68,45 +77,21 @@ My primary interests include:
 
 ---
 
-# ⚡ Tech Stack
+# 💻 Tech Stack & Tools
 
-## ☕ Backend
+<div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk) ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot) ![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity)
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,mongodb,git,github,linux,vscode&theme=dark&perline=8" />
 
----
+<br><br>
 
-## 🎨 Frontend
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-
----
-
-## 🗄 Database
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-
----
-
-## 🛠 Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+</div>
 
 ---
 
@@ -118,48 +103,3 @@ My primary interests include:
 | 📋 TaskFlow AI | AI task management platform with Spring Boot & MongoDB |
 | 🛠 ServiceMate | Local service booking application with JWT Authentication |
 | 📍 Geo Attendance | Face Recognition Attendance using Geofencing |
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bharadwajnithin&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharadwajnithin&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://streak-stats.demolab.com?user=bharadwajnithin&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Become a Software Engineer
-- ✅ Master Spring Boot
-- ✅ Learn Microservices
-- ✅ Learn AWS / AZURE
-- ✅ Master System Design
-- ✅ Contribute to Open Source
-
----
-
-# 📫 Connect With Me
-
-- 💼 LinkedIn → https://linkedin.com/in/nithin-ks2005
-- 📧 Email → bharadwajnithin666@gmail.com
-- 💻 GitHub → github.com/bharadwajnithin
-
----
-
-<div align="center">
-
-## ⭐ Thanks for visiting!
-
-### *Code • Learn • Build • Repeat* 🚀
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:4F46E5,50:3B82F6,100:06B6D4"/>
-
-</div>
