@@ -100,6 +100,8 @@ My primary interests include:
 
 # 📊 GitHub Analytics
 
+# 📊 GitHub Analytics
+
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=bharadwajnithin&show_icons=true&theme=tokyonight&hide_border=true"/>
