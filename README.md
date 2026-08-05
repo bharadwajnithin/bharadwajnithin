@@ -96,21 +96,7 @@ My primary interests include:
 
 
 
----
 
-# 📊 GitHub Analytics
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bharadwajnithin&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharadwajnithin&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://streak-stats.demolab.com?user=bharadwajnithin&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
