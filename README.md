@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:3B82F6,100:06B6D4&text=Nithin%20K%20S&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20|%20Java%20Backend%20Developer&descAlignY=58&descSize=18"/>
 
-
+    
 <br>
 
 <a href="https://www.linkedin.com/in/nithin-ks2005/">
