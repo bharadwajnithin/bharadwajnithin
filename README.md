@@ -116,7 +116,7 @@ My primary interests include:
 - 💼 LinkedIn → https://linkedin.com/in/nithin-ks2005
 - 📧 Email → bharadwajnithin666@gmail.com
 -  Portfoilo → https://nithinks.netlify.app/
-- 💻 GitHub → github.com/bharadwajnithin
+- 💻 GitHub → github.com/bharadwajnithin 
 
 ---
 
