@@ -61,9 +61,8 @@ I enjoy building scalable backend systems, solving challenging engineering probl
 My primary interests include:
 
 - Backend Development
-- Distributed Systems
-- Cloud Computing
 - Software Engineering
+-  Cloud Computing
 - Artificial Intelligence
 
 ---
