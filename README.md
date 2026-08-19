@@ -104,7 +104,7 @@ My primary interests include:
 - ✅ Become a Software Engineer
 - ✅ Master Spring Boot
 - ✅ Learn Microservices
-- ✅ Learn AWS / AZURE
+- ✅ Learn AWS
 - ✅ Master System Design
 - ✅ Contribute to Open Source
 
