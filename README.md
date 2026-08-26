@@ -46,7 +46,7 @@ public class NithinKS implements SoftwareEngineer {
         while (alive) {
             learn(newTech);
             build(cleanCode);
-            solve(dProblems);
+            solve(Problems);
         }
     }
 
