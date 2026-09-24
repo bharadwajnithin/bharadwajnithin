@@ -34,7 +34,7 @@ public class NithinKS implements SoftwareEngineer {
     private String location   = "Mysore, Karnataka, India";
 
     private String[] primarySkills = {
-        "Java", "Python", "REST APIs", "React", "MySQL", "MongoDB"
+        "Java", "Python", "REST APIs", , "MySQL", "MongoDB"
     };
 
     private String[] lookingFor = {
